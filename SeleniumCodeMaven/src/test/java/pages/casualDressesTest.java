@@ -52,7 +52,7 @@ public class casualDressesTest {
 	    		
 	    	}
 	    	
-	    	user1obj.signinPage();
+	    user1obj.signinPage();
     	    user1obj.setLoginEmail(user);
     	    user1obj.setLoginPassword(pass);
     	    user1obj.logInButton();
